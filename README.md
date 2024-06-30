@@ -11,6 +11,10 @@
   </a>
 </div>
 
+## Things to Note !
+1. [Übersicht](http://tracesof.net/uebersicht/) is required
+2. Choose send to background for all widgets in Übersicht so that they do not interfere with desktop icons
+
 ## Widgets ♡
 ### 1. Clock Widget: [![Time-Craft](https://img.shields.io/badge/TimeCraft-E4405F?style=for-the-badge)](https://github.com/yashchittora/Time-Craft)
 
