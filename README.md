@@ -4,6 +4,13 @@
 </p>
 <h2 align="center">A simple and minimalistic widget pack for macOS</h2>
 
+<div align="center">
+  <h3>Download Full Pack</h3>
+  <a href="https://github.com/yashchittora/WidgetCraft/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download-E4405F?style=for-the-badge" alt="Download">
+  </a>
+</div>
+
 ## Widgets ♡
 ### 1. Clock Widget: [![Time-Craft](https://img.shields.io/badge/TimeCraft-E4405F?style=for-the-badge)](https://github.com/yashchittora/Time-Craft)
 
